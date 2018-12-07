@@ -1,0 +1,12 @@
+/*Base Styles*/
+h1 {
+  font-family: helvetica-Neue;
+  font-style: bold
+  text-shadow: 10px 5px 5px 5px rgb(0,0,0,0.6);
+}
+
+header {
+
+}
+
+/*Layout Styles*/

@@ -1,0 +1,73 @@
+body {
+  color: #878787;
+  margin: 0;
+}
+
+.main-header {
+  background-color: orange; /*this makes the background color orange*/
+}
+
+.main-header span {
+  color: purple;
+  font-size: 26px;
+}
+
+ul li {
+  background-color: tomato;
+  color: white;
+}
+/*
+moo
+bark
+rufff
+why
+*/
+h1 {
+  font-size: 90px;
+  color: white;
+}
+
+h2 {
+  font-size: 53px;
+}
+
+h3 {
+  font-size: 20px;
+  color: #48525c;
+}
+
+.primary-content {
+  text-align: center;
+}
+
+.t-border {
+  border-top: 2px solid lightgrey;
+}
+
+/*class selectors*/
+#main-footer {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  border-bottom: solid 10px orange;
+}
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: lightblue;
+}
+
+a:hover {
+  color: forestgreen;
+}
+
+a:active {
+  color: lightcoral;
+}
+
+a:focus {
+  color: white;
+  background-color: orange;
+}

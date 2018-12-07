@@ -1,0 +1,22 @@
+/* ================================= 
+  Flexbox
+==================================== */
+
+.container {
+	display: flex;
+	flex-direction: column;
+	height: 400px;
+}
+
+.item {
+	ali
+}
+
+/*.item-6 {
+	order: -4;
+	flex-grow: 4;
+}
+
+.item-4 {
+	order: -2;
+}*/

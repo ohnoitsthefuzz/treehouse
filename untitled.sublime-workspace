@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"flex",
+				"flex-grow\tproperty"
+			],
+			[
+				"number",
+				"numberCorrect"
+			],
+			[
+				"num",
+				"numberCorrect"
+			],
+			[
+				"to",
+				"toLowerCase"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CSS Flexbox Layout/3-building-a-layout-with-flexbox/3-three-column-layout-with-flexbox/start/index.html",
+			"settings":
+			{
+				"buffer_size": 2641,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CSS Flexbox Layout/3-building-a-layout-with-flexbox/3-three-column-layout-with-flexbox/start/css/base.css",
+			"settings":
+			{
+				"buffer_size": 1645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "CSS Flexbox Layout/3-building-a-layout-with-flexbox/3-three-column-layout-with-flexbox/start/css/flexbox.css",
+			"settings":
+			{
+				"buffer_size": 584,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects"
+	],
+	"file_history":
+	[
+		"/home/ohnoitsthefuzz/Documents/Treehouse/CSS Flexbox Layout/2-flexbox-properties/1-controlling-direction-of-flex-items/start/css/page.css",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/CSS Flexbox Layout/3-building-a-layout-with-flexbox/1-navigation-bar-with-flexbox/start/css/flexbox.css",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/CSS Flexbox Layout/2-flexbox-properties/1-controlling-direction-of-flex-items/start/index.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/CSS Flexbox Layout/2-flexbox-properties/1-controlling-direction-of-flex-items/start/css/flexbox.css",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/CSS Flexbox Layout/3-building-a-layout-with-flexbox/1-navigation-bar-with-flexbox/start/css/base.css",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/CSS Flexbox Layout/3-building-a-layout-with-flexbox/1-navigation-bar-with-flexbox/start/index.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/students.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/studentlist.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/Debugging CSS With ChromeDev Tools/debugging-css-with-chrome-devTools/9-Debugging Styles Challenge/start/index.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/Debugging CSS With ChromeDev Tools/debugging-css-with-chrome-devTools/9-Debugging Styles Challenge/start/css/style.css",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/studentsearch.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/students.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/Debugging CSS With ChromeDev Tools/debugging-css-with-chrome-devTools/10-Debugging Styles Solution/final/css/style.css",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/quizobject.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/object.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/StoreProducts.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/StudentArrayForLoop.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/quiz - Iteration 2.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/quizobject.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/JavaScript_Loops_Arrays_Objects/Section_3_Objects/object.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/JavaScript_Loops_Arrays_Objects/Section_3_Objects/For-In Object.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/object.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/JavaScript_Loops_Arrays_Objects/Section_3_Objects/For-In Object.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/quiz.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/quiz.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/EvenNumberChallenge.js",
+		"/home/ohnoitsthefuzz/SQL for Newbs/Count",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/index.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/PlaylistArray.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/PlaylistArray.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/playlist.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/temperatures.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/Number Guesser.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/shopping.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/ForScript.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/temperatures.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/StoreProducts.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/StudentArrayForLoop.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/helpers.js",
+		"/home/ohnoitsthefuzz/SQL for Newbs/SQL_Queries.sql",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/shopping.html",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/shopping2.js",
+		"/home/ohnoitsthefuzz/Documents/Treehouse/JavaScript Loops, Arrays, and Objects/shopping2.html",
+		"/home/ohnoitsthefuzz/PlayOnLinux's virtual drives/HeidiSQL/drive_c/Program Files/HeidiSQL/SQL_Queries.sql"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CSS Flexbox Layout/3-building-a-layout-with-flexbox/3-three-column-layout-with-flexbox/start/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1998,
+								1998
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 471.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "CSS Flexbox Layout/3-building-a-layout-with-flexbox/3-three-column-layout-with-flexbox/start/css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "CSS Flexbox Layout/3-building-a-layout-with-flexbox/3-three-column-layout-with-flexbox/start/css/flexbox.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
